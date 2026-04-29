@@ -1,0 +1,6 @@
+{
+  "name": "Alex AI Agent",
+  "description": "A sophisticated conversational AI assistant named Alex, powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Conversations", "Natural Language Processing"]
+}
